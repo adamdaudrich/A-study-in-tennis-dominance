@@ -13,4 +13,4 @@ In Excel:
 - AVERAGEIF(score length, "=LEN", minutes) applied to each player for both wins and losses
 - Chart called
 
-Conclusion: no surprise that, given his blistering service game, Andy Roddick was actually the fastest.
+Conclusion: no surprise that, given his blistering service game, Andy Roddick was actually quicker !
