@@ -11,6 +11,6 @@ In Power Query
 In Excel:
 - adding score LEN column (length). 7 = 2 sets, 11 = 3 sets, 15 = 4 sets, 19 = 5 sets to convert score to a referable number
 - AVERAGEIF(score length, "=LEN", minutes) applied to each player for both wins and losses
-- Chart called
+- Chart generated
 
-Conclusion: no surprise that, given his blistering service game, Andy Roddick was actually quicker !
+Conclusion: No surprise that, given his blistering service game, Andy Roddick was actually quicker !
