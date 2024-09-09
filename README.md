@@ -1,3 +1,6 @@
+One of the ways we experience 'dominance' on the tennis court is in our perception of how we are being beaten. In my opinion, one factor in that is how quickly you lose points.
+
+
 I set out to determine if, in his most dominant year of 2005, world #1 Roger Federer was also the most *quick* 
 to dispose of his opponents. This was measured by average minutes per 2, 3, 4, and 5 and set matches. 
 The data was compared to the #2 and #3 ranked players.
